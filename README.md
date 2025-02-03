@@ -10,9 +10,6 @@
 - User-friendly interface
 - Fast compression speed
 
-## Screenshots
-
-(Include screenshots of the app here)
 
 ## Technologies Used
 
